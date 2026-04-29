@@ -1,16 +1,23 @@
-## Hi there 👋
+# TianJian Xing
 
-<!--
-**Xingtia2/Xingtia2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science Student at Michigan State University  
 
-Here are some ideas to get you started:
+🔗 Portfolio: https://xingtia2.github.io  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+I am a data science student with experience in data analysis, visualization, and machine learning.  
+I have worked with real-world datasets and built pipelines to transform messy data into structured insights.
+
+---
+
+## Projects
+- AWS Cloud Computing Project  
+- Customer Churn Analysis  
+- Data Visualization Project  
+
+---
+
+## Skills
+Python | Pandas | SQL | AWS | Data Visualization
