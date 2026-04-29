@@ -2,7 +2,7 @@
 
 Data Science Student at Michigan State University  
 
-🔗 Portfolio: https://xingtia2.github.io  
+Portfolio: https://xingtia2.github.io  
 
 ---
 
